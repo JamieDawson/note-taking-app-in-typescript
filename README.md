@@ -9,6 +9,8 @@ This is a note taking app that I built using Typescript, React, and Vite that I 
 3. Delete notes
 4. Create tags
 5. Delete tags
+6. Search by titles
+7. Search by tags
 
 [Click here to test the app](https://note-taking-app-in-typescript-alr5.vercel.app/)
 
